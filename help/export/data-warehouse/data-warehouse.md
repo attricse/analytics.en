@@ -10,7 +10,7 @@ uuid: 768557dd-1644-4ce6-bfc2-8c46dd6e1cd1
 
 Data Warehouse refers to the copy of Analytics data for storage and custom reports, which you can run by filtering the data. You can request reports to display advanced data relationships from raw data based on your unique questions. Data warehouse reports are emailed or sent via FTP, and may take up to 72 hours to process. Processing time depends on the complexity of the query and the amount of data requested.
 
-Adobe enables Data Warehouse for administrator-level users only, for specific report suites. (It can be enabled for global and child report suites, but not for rollup report suites.) The administrator can create a group that has access to Data Warehouse, and then associate non-administrator level users to that group.
+Adobe enables Data Warehouse for any-level users, for specific report suites. (It can be enabled for global and child report suites, but not for rollup report suites.) The administrator can create a group/ Product profile that has access to Data Warehouse & Data Warehouse Report, and then associate non-administrator level users to that group.
 
 Data Warehouse automatically zips any file that exceeds 1 MB in size. The maximum email attachment size is 10 MB.
 
